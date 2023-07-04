@@ -2,7 +2,8 @@
 A langchain project with streamlit frontend for conducting thorough and reliable research on any topic from the internet
 
 
-![image](https://github.com/prikarsartam/autonomous_researcher/assets/104849674/263a24c2-988f-4418-93f2-11d6af504b4a)
+![image](https://github.com/prikarsartam/autonomous_researcher/assets/104849674/a3bd4771-8257-4d0b-b532-c9dc7ddb587a)
+
 
 
 
